@@ -32341,7 +32341,8 @@ INSERT INTO `creature_ai_scripts` (`id`,`creature_id`,`event_type`,`event_invers
 -- Stormforged Taskmaster 29369
 ('2936901','29369','0','0','100','1025','1000','1000','35000','50000','0','0','11','52701','0','0','0','0','0','0','0','0','0','0','Stormforged Taskmaster - Cast Lightning Charged'),
 ('2936902','29369','0','0','100','1025','9000','12000','15000','18000','0','0','11','51876','1','0','0','0','0','0','0','0','0','0','Stormforged Taskmaster - Cast Storm Strike'),
-('2936903','29369','5','0','30','0','0','0','1','0','0','0','1','30238','0','0','0','0','0','0','0','0','0','0','Stormforged Taskmaster - Chance to Say on Player Kill'),
+('2936903','29369','1','0','35','1','10000','30000','30000','55000','0','0','53','21268','0','0','0','0','0','0','0','0','0','0','Stormforged Taskmaster - (35% chance) START_RELAY_SCRIPT on OOC Timer'),
+('2936904','29369','7','0','100','0','0','0','0','0','0','0','53','21269','0','0','0','0','0','0','0','0','0','0','Stormforged Taskmaster - START_RELAY_SCRIPT on Evade'),
 -- Stormforged Champion 29370
 ('2937001','29370','0','0','100','1025','1000','1000','35000','50000','0','0','11','52701','0','0','0','0','0','0','0','0','0','0','Stormforged Champion - Cast Lightning Charged'),
 -- Stormforged Magus 29374
